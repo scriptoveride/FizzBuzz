@@ -2,4 +2,4 @@
 
 https://www.youtube.com/watch?v=QPZ0pIK_wsc
 
- try and make a better version
+ trying to make a better version
