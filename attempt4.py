@@ -1,4 +1,4 @@
-# after i learnt how to use modulus i found this solution. I still think there is a better way
+# after i learnt how to use modulus i worked out this solution. I still think there is a better way
 
 for i in range(100):
     if ((i + 1) % 3 == 0) and ((i + 1) % 5 == 0): print("FizzBuzz")
